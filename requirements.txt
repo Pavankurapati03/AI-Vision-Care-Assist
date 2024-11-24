@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+pyttsx3
+torch
+torchvision
+google-generativeai
+googletrans==4.0.0-rc1
+python-dotenv
+pillow
