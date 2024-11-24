@@ -1,6 +1,6 @@
-
-```markdown
 # AI Vision Care Assist
+```markdown
+
 
 AI Vision Care Assist is an AI-powered solution designed to assist visually impaired individuals by providing scene descriptions, text extraction from images, object detection for navigation, and personalized task assistance.
 
